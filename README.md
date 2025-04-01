@@ -1,4 +1,16 @@
-*System Requirements:
+Obfusticated Payload Generator :
+
+
+✅ Automatically generate payloads (Metasploit, custom shellcode)
+✅ Obfuscate the payloads (XOR, AES encryption, polymorphic techniques)
+✅ Pack the payloads (Embed in images, executables, PowerShell scripts)
+✅ Execute in memory (Reflective injection, shellcode execution)
+
+
+
+
+
+System Requirements:
 Before you start, ensure you have:
 
 Operating System: Linux (Kali) or Windows (with WSL)
