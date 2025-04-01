@@ -1,4 +1,4 @@
-Obfusticated Payload Generator :
+#  Obfusticated Payload Generator :
 
 
 ✅ Automatically generate payloads (Metasploit, custom shellcode)
@@ -10,7 +10,7 @@ Obfusticated Payload Generator :
 
 
 
-System Requirements:
+##  System Requirements:
 Before you start, ensure you have:
 
 Operating System: Linux (Kali) or Windows (with WSL)
@@ -30,7 +30,7 @@ PyStegano (for Steganography)
 PyInstaller (for EXE packing)
 
 
-Commands That will help:)
+##Commands That will help:)
 
 1.Generate a raw payload  :   python Obfuscatorpay.py -g
 
